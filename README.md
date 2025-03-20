@@ -33,7 +33,7 @@ If you want to use our artifact, you can cite our [paper]():
   journal = {Dependable Systems and Networks},
   volume = {2025}, 
   year ={2025},
-  series = {DNS~'25}, 
+  series = {DSN~'25}, 
   doi = {}
   url= {}
 }
