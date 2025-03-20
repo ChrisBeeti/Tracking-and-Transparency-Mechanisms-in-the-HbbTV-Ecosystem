@@ -5,7 +5,7 @@ The following repository contains artifacts for the paper "Tracking and Transpar
 
 - **01_Figures**  contains all figures used in the paper.
   
-- **02_Measurement_Data** hosts the collected measurement data exlcuding screenshots, both raw (and processed, available as a xxx GB ZIP archive).
+- **02_Measurement_Data** hosts the collected measurement data exlcuding screenshots, both raw (and processed, available as a ~3 GB ZIP archive).
   
 - **03_Code** contains the entire data processing and evaluation pipeline, including all the SQL statements. 
   
