@@ -1,4 +1,5 @@
 # 02_Measurement_Data
+(Download the data file from [Zenodo](10.5281/zenodo.15062968))
 The files in this folder contains the raw measurement data. 
 Inside the ZIP file are the results for each measurement run (total 5).
 
